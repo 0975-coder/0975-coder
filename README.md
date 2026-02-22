@@ -1,5 +1,41 @@
 # 💫 About Me:
-🔭 I’m currently studying in Poornima University.<br>👯 I’m looking to collaborate on Cybersecurity,Gen AI and ethical hacking.<br>🤝 I’m looking for help with blockchain and ethical hacking.<br>🌱 I’m currently learning ethical hacking,blockchain and dark webs and cybersecurity.
+I am an engineering student with a strong interest in Software Engineering, System Design, and Programming. I actively work on building a solid foundation in Python, Object-Oriented Programming, and UML-based software modeling, focusing on writing structured, well-documented, and scalable solutions.
+
+My academic journey includes hands-on study of:
+
+🔹 Software Design & Unified Modeling Language (UML)
+
+🔹 Object-Oriented Modeling and System Architecture
+
+🔹 Python programming (data structures, recursion, pandas, matplotlib)
+
+🔹 Core Engineering subjects including Electrical and Manufacturing Engineering
+
+🔹 Fundamental concepts of system behavior, design patterns, and frameworks
+
+I am particularly interested in understanding how complex systems are designed before implementation — from class diagrams and sequence diagrams to component and deployment architecture.
+
+I believe in:
+
+📌 Clear conceptual understanding before coding
+
+📌 Structured and step-by-step problem solving
+
+📌 Writing maintainable and well-documented code
+
+📌 Continuous learning and practical application
+
+Currently, I am focused on strengthening my skills in:
+
+Object-Oriented Design
+
+System Modeling
+
+Software Architecture
+
+Python-based development
+
+I am always eager to learn, build, and improve — one structured system at a time.<br>👯 I’m looking to collaborate on Cybersecurity,Gen AI and ethical hacking.<br>🤝 I’m looking for help with blockchain and ethical hacking.<br>🌱 I’m currently learning ethical hacking,blockchain and dark webs and cybersecurity.
 
 
 ## 🌐 Socials:
